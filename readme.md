@@ -12,3 +12,5 @@ Game Designer, with Math and Physics.
 | [pda-server](https://github.com/kazkwao0139/pda-server) | 서버 사이드 |
 | [Schrodinger-anticheat](https://github.com/kazkwao0139/Schrodinger-anticheat) | 사람과 기계를 구별하는 방법 |
 | [chori-scratchpad](https://github.com/kazkwao0139/chori-scratchpad) | Hirameki를 정리해두는 곳 |
+
+📫 kazkwao0139@outlook.com

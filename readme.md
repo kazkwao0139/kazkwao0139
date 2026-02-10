@@ -14,3 +14,10 @@ Game Designer, with Math and Physics.
 | [chori-scratchpad](https://github.com/kazkwao0139/chori-scratchpad) | Hirameki를 정리해두는 곳 |
 
 📫 kazkwao0139@outlook.com
+
+<!--
+    easter egg.
+    cipher: XOR
+    hint: my nickname
+    data: 051d0c19490c0e095e492e2a2e
+-->

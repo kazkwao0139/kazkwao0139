@@ -1,23 +1,15 @@
-# 쵸리(Chori)
+# 쵸리 (Chori)
 
-Game Designer, with Math and Physics.
+  Game Designer, with Math and Physics.
 
-🎮 [Game Portfolio](https://kazkwao0139.github.io/game-portfolio/)
+  > 현재 모든 레포는 프라이빗 입니다.
+  > All repositories are currently private.
 
-## Projects
+  📫 chori@hrmk.studio
 
-| Repo | 설명 |
-|------|------|
-| [game-portfolio](https://github.com/kazkwao0139/game-portfolio) | 게임 개발 포트폴리오 — 기획서 & 플레이 가능한 데모 |
-| [pda-server](https://github.com/kazkwao0139/pda-server) | 서버 사이드 |
-| [Schrodinger-anticheat](https://github.com/kazkwao0139/Schrodinger-anticheat) | 사람과 기계를 구별하는 방법 |
-| [chori-scratchpad](https://github.com/kazkwao0139/chori-scratchpad) | Hirameki를 정리해두는 곳 |
-
-📫 kazkwao0139@outlook.com
-
-<!--
-    easter egg.
-    cipher: XOR
-    hint: my nickname
-    data: 051d0c19490c0e095e492e2a2e
--->
+  <!--
+      easter egg.
+      cipher: XOR
+      hint: my nickname
+      data: 051d0c19490c0e095e492e2a2e
+  -->

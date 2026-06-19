@@ -4,6 +4,7 @@
 
   > 현재 모든 레포는 프라이빗 입니다.
   > All repositories are currently private.
+  > OVERWHELMING WORKING CODE ONLY
 
   📫 chori@hrmk.studio
 
